@@ -127,6 +127,7 @@ IDEs, coding assistants, and development tools for building with AI agents.
 | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | -- | Anthropic's agentic coding tool that operates directly in your terminal |
 | [Cursor](https://cursor.com/) | -- | AI-first code editor with multi-file editing, codebase understanding, and agent mode |
 | [aider](https://github.com/Aider-AI/aider) | ![Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&label=) | AI pair programming in your terminal that edits code in your local git repo |
+| [Argus](https://github.com/tecnosor/argus-framework) | ![Stars](https://img.shields.io/github/stars/tecnosor/argus-framework?style=flat-square&label=) | Banking compliance SDLC framework for AI agents. Installs 5 specialized agents (Guardian, Compliance, Builder, Tester, Reviewer) to enforce GDPR, DORA, MiCA, PSD2, PCI-DSS across the software lifecycle |
 | [Continue](https://github.com/continuedev/continue) | ![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square&label=) | Open-source AI code assistant for VS Code and JetBrains |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | ![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square&label=) | Platform for AI-powered software development agents (formerly OpenDevin) |
 | [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | ![Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=flat-square&label=) | Agent that autonomously fixes GitHub issues using LLMs |
