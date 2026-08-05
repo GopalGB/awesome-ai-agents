@@ -195,6 +195,7 @@ Tools and protocols for agent communication, tool use, and deployment.
 | [vLLM](https://github.com/vllm-project/vllm) | ![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&label=) | High-throughput LLM serving engine for production agent deployments |
 | [LiteLLM](https://github.com/BerriAI/litellm) | ![Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&label=) | Unified API to call 100+ LLM providers with load balancing and spend tracking |
 | [Instructor](https://github.com/jxnl/instructor) | ![Stars](https://img.shields.io/github/stars/jxnl/instructor?style=flat-square&label=) | Structured output from LLMs with validation -- essential for reliable agent tool use |
+| [OpenWorkProof](https://github.com/dengyier/OpenWorkProof) | ![Stars](https://img.shields.io/github/stars/dengyier/OpenWorkProof?style=flat-square&label=) | Open protocol for agent work contracts and verifiable execution -- authorization, evidence, and acceptance for multi-agent systems |
 
 ## Evaluation & Testing
 
