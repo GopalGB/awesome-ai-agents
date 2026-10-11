@@ -117,6 +117,7 @@ Commercial platforms and APIs for building and deploying AI agents.
 | [Azure AI Agent Service](https://azure.microsoft.com/en-us/products/ai-services/) | Microsoft's enterprise platform for deploying AI agents at scale |
 | [Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder) | Google Cloud's platform for building conversational AI agents |
 | [Relevance AI](https://relevanceai.com/) | No-code platform for building and deploying AI agents and workflows |
+| [Tale](https://tale.dev/) | Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing reports and deliverables |
 
 ## Developer Tools
 
