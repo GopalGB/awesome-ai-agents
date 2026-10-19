@@ -124,6 +124,7 @@ IDEs, coding assistants, and development tools for building with AI agents.
 
 | Name | Stars | Description |
 |------|-------|-------------|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | ![Stars](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=flat-square&label=) | Local CLI and MCP payment runtime on macOS with foreground owner approval |
 | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | -- | Anthropic's agentic coding tool that operates directly in your terminal |
 | [Cursor](https://cursor.com/) | -- | AI-first code editor with multi-file editing, codebase understanding, and agent mode |
 | [aider](https://github.com/Aider-AI/aider) | ![Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&label=) | AI pair programming in your terminal that edits code in your local git repo |
