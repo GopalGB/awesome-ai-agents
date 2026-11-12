@@ -210,6 +210,7 @@ Frameworks for evaluating and testing AI agent performance.
 | [Promptfoo](https://github.com/promptfoo/promptfoo) | ![Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=) | Test suite for LLM apps — regression-test prompts, models, and RAG with assertions and red-teaming |
 | [TruLens](https://github.com/truera/trulens) | ![Stars](https://img.shields.io/github/stars/truera/trulens?style=flat-square&label=) | Evaluation and tracking for LLM apps with feedback functions for groundedness, relevance, and safety |
 | [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) | ![Stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=flat-square&label=) | UK AI Safety Institute's framework for large-scale LLM evaluations and capability benchmarking |
+| [agentstats](https://github.com/RishabhPande/agentstats) | ![Stars](https://img.shields.io/github/stars/RishabhPande/agentstats?style=flat-square&label=) | Run-aware statistical analysis of repeated agent-benchmark outcomes with corrected comparisons and uncertainty tiers |
 
 ## Voice & Multimodal Agents
 
